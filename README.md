@@ -1,8 +1,19 @@
-project is machine learning course 
+Project 1: Linear Regression
 
-proj 1 : linear regression  - implementation of linear regression algorithm. using numpy and pandas. learning and predictiong house prices. 
-proj2 : desecision tress  - A Python project implementing Decision Tree classification with support for entropy, Gini impurity, gain ratio, depth pruning, and chi-squared pruning.
-proj 3: A Python project implementing classifiers like Naive Bayes, MAP, MaxPrior, and MaxLikelihood
-proj 4: A Python project implementing Logistic Regression with gradient descent, Naive Bayes using EM for Gaussian mixtures, and feature selection via Pearson correlation.
-proj 5: k-means - This project implements the K-Means and K-Means++ clustering algorithms for color quantization of images
+Implemented a linear regression algorithm using NumPy and pandas to learn and predict house prices.
 
+Project 2: Decision Trees
+
+Developed a Python decision tree classifier with support for entropy, Gini impurity, gain ratio, depth pruning, and chi-squared pruning.
+
+Project 3: Classification Algorithms
+
+Implemented classifiers including Naive Bayes, MAP, MaxPrior, and MaxLikelihood.
+
+Project 4: Logistic Regression and Naive Bayes
+
+Implemented logistic regression with gradient descent, Naive Bayes using EM for Gaussian mixtures, and feature selection via Pearson correlation.
+
+Project 5: K-Means Clustering
+
+Implemented the K-Means and K-Means++ clustering algorithms for color quantization of images.
