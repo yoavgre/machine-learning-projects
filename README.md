@@ -16,4 +16,4 @@ Implemented logistic regression with gradient descent, Naive Bayes using EM for 
 
 Project 5: K-Means Clustering
 
-Implemented the K-Means and K-Means++ clustering algorithms for color quantization of images.
+Implemented K-Means and K-Means++ clustering algorithms for color quantization of images.
